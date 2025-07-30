@@ -1,4 +1,4 @@
-# 🌈 RGB Mood Light
+# RGB Mood Light 🚨
 
 The **RGB Mood Light** is an interactive Arduino-based lighting system that changes its color based on the ambient light levels. As the environment gets darker, the RGB light dynamically shifts through colors, creating a relaxing and adaptive lighting experience.
 
@@ -22,7 +22,7 @@ This project uses a **Light Dependent Resistor (LDR)** to detect the brightness 
 | 10KΩ Resistor       | 1        |
 | Jumper Cables       | 13       |
 | Breadboard          | 1        |
-| Paper Box (for housing) | 1    |
+| Paper Box (for light) | 1    |
 
 ---
 
@@ -55,12 +55,8 @@ This project uses a **Light Dependent Resistor (LDR)** to detect the brightness 
 ---
 
 ## 🖼️ Images / Videos
-
-> *(Add your photos or video links here)*
-
-- ![Breadboard Setup](images/breadboard.jpg)
-- ![Mood Light in Box](images/box-light.jpg)
-- [Demo Video on YouTube](https://youtu.be/your-demo-link)
+- [Mood Light in Box](https://drive.google.com/file/d/1A68Gllmn5ULe1P5W8BhK7s7HXCpxaD2C/view)
+- [Demo Video](https://drive.google.com/file/d/1IYMHzMX36PP208ozQ-X8mrm2MQmKhOj_/view?t=8)
 
 ---
 
@@ -68,7 +64,7 @@ This project uses a **Light Dependent Resistor (LDR)** to detect the brightness 
 
 If you’d like to try the project in a virtual environment:
 
-- [Tinkercad Circuit Simulation]([https://www.tinkercad.com/things/your-circuit-link](https://www.tinkercad.com/things/lb3lWuHPr5h-mood-light))
+- [Tinkercad Circuit Simulation](https://www.tinkercad.com/things/lb3lWuHPr5h-mood-light)
 
 ---
 
